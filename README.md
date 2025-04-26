@@ -133,13 +133,13 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 ## 🖼️ Visual Preview
 
 <p align="center">
-  <img src="./images/Marketing.png" height="240"/>
-  <img src="./images/Website.png" height="240"/>
+  <img src="./Images/Marketing.png" height="240"/>
+  <img src="./Images/Website.png" height="240"/>
 </p>
 
 <p align="center">
-  <img src="./images/Professional_Logo.png" height="220"/>
-  <img src="./images/Roadmap.png" height="220"/>
+  <img src="./Images/Professional_Logo.png" height="220"/>
+  <img src="./Images/Roadmap.png" height="220"/>
 </p>
 
 ---
