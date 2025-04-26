@@ -5,6 +5,13 @@ Smart digital innovation in fitness: performance monitoring, personalization, an
 
 ---
 
+## 📌 Project Info
+- 🎓 Course: Laboratory of Business Plan
+- 🏫 University of Bologna
+- 📅 Year: 2023/2024
+
+---
+
 ## 🧠 About the Project
 
 **FitFlow** aims to revolutionize fitness environments by introducing **tech-driven smart devices** and a connected ecosystem for gyms, trainers, and individual users.  
@@ -154,12 +161,6 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 
 ---
 
-## 📅 Year
-
-2023–2024
-
----
-
 ## 👨‍🎓 Authors
 
 **The Jacobians Team** – University of Bologna  
@@ -169,7 +170,7 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 - Andrea Missiato (Computer Engineer)  
 - Gutu Abeya Tefera (Electrical Engineer)
 
-📧 Contact: fitflow@legalmail.it
+📧 and.perna99@gmail.com
 
 ---
 
