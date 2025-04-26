@@ -1,4 +1,4 @@
-# 🚀 FitFlow – Business Plan for an Innovative Digital Startup
+# FitFlow – Business Plan for an Innovative Digital Startup
 
 [![Business Plan](https://img.shields.io/badge/Project-Type%3A%20Business%20Plan-blue)](#)  
 Smart digital innovation in fitness: performance monitoring, personalization, and user engagement through a connected platform.
