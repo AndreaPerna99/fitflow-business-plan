@@ -1,4 +1,4 @@
-# FitFlow – Business Plan for an Innovative Digital Startup
+# 🚀 FitFlow – Business Plan for an Innovative Digital Startup
 
 [![Business Plan](https://img.shields.io/badge/Project-Type%3A%20Business%20Plan-blue)](#)  
 Smart digital innovation in fitness: performance monitoring, personalization, and user engagement through a connected platform.
@@ -23,10 +23,15 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 ```
 📦 fitflow-business-plan/
 ├── 📁 Documents/                        # Full documentation
-│   ├── 📘 FitFlow_BusinessPlan.pdf      # Complete Business Plan
-│   ├── 📘 FitFlow_Presentation.pdf      # Pitch Deck Presentation
-│   ├── 📘 Business_Idea.pdf             # Initial business concept
-│   └── 📘 Report_SurveyXFitFlow.pdf     # Survey and market research results
+│   ├── 📘 FitFlow_BusinessPlan.pdf
+│   ├── 📘 FitFlow_Presentation.pdf
+│   ├── 📘 Business_Idea.pdf
+│   └── 📘 Report_SurveyXFitFlow.pdf
+├── 📁 Images/                           # Visual previews and marketing
+│   ├── 📸 Marketing.png
+│   ├── 📸 Professional_Logo.png
+│   ├── 📸 Roadmap.png
+│   └── 📸 Website.png
 ├── 📄 README.md                         # You are here!
 ```
 
@@ -125,6 +130,20 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 
 ---
 
+## 🖼️ Visual Preview
+
+<p align="center">
+  <img src="./images/Marketing.png" height="240"/>
+  <img src="./images/Website.png" height="240"/>
+</p>
+
+<p align="center">
+  <img src="./images/Professional_Logo.png" height="220"/>
+  <img src="./images/Roadmap.png" height="220"/>
+</p>
+
+---
+
 ## 📊 Survey Insights
 
 - **87%** find gym equipment outdated
@@ -151,6 +170,12 @@ Developed as a real-world startup project by **The Jacobians** — a multidiscip
 - Gutu Abeya Tefera (Electrical Engineer)
 
 📧 Contact: fitflow@legalmail.it
+
+---
+
+## 👩‍🏫 Supervisor
+
+- Prof. Riccardo Fini
 
 ---
 
